@@ -73,17 +73,46 @@ NOTE: Dont always use the latest version. There could be bugs.
 
 1 - Open TextEdit and on the top left click on textEdit.
 
-2 - Open prefrences and change richText to PlainText. Remove all the options and go to Open Save.
+2 - Open prefrences and change richText to PlainText. uncheck all the boxes in "Options" and click on "Open Save" on the top right corner.
 
-3- Click on "Display HTML files as HTML code."
+3- Check the box in "Display HTML files as HTML code."
 
 4 - Make sure the document type is "HTML 4.01 Strict"
 
 5- Quit TextEdit and open it.
 
-6- Type the java code. Once you are done name is as the name of class.
+6- Type the java code. Once you are done name it as the name of class.
 
+7 - At the end put ".java" 
 
+Ex: Main.java
+
+8 - Open terminal and type "ls"
+
+9- It will show you the lists. Then type in "cd Desktop"
+
+10- Type "ls"
+
+11 - Find your folder and type in "cd foldername". 
+
+Ex: cd java
+
+12 - Type "ls"; it will show you the things you have in your folder
+
+13- Type "javac" and your file name
+
+Ex:
+ javac Main.java
+ 
+ 14 - If you have any errors it will display. If you dont it will be empty
+ 
+ 15 - To run the code type "java" and the class name which has your main method
+ 
+ Ex:
+ 
+  java Main
+  
+       Your Done
 
 
 

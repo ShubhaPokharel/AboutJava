@@ -2,6 +2,8 @@
 
 
 ## There are two types of web pages - 
+1. Static webpages
+2. Dynamic webpages
 
 - Static webpages mean when we click on a button or link, there is no response.It is filled with HTML,CSS and Javascript code.
 

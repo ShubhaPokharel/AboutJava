@@ -116,3 +116,22 @@ Ex:
 
 
 
+**********************************************************************************************************
+
+# Compilation Process
+
+We need to check the output after we type the code. To do that we have 4 steps
+
+1 - Write the code in an editor software
+
+2 - Save the code using ".java"
+
+Ex:
+
+Test.java
+
+3 - Compilation process
+
+- This is the important part. The compilation process, checks for errors. If we get an error, it will either give us a pop up or tell us in the terminal. If we dont have any errors then the file name will turn to ".java" to ".class"
+
+4 - JVM also known as Java Virtual Machie will turn our code into Binary code. It does this because the computer only understands Binary code. It will run the class to get the output.
